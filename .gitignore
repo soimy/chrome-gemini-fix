@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 脚本运行时的本地备份（若有人把 Chrome 数据目录搬到仓库里）
+*.bak-[0-9]*
+*.tmp
+
+# 私密内容
+.env
